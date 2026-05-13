@@ -1,0 +1,23 @@
+{
+  "slug": "msft",
+  "ticker": "MSFT",
+  "company": "Microsoft Corporation",
+  "action": "DRAFT",
+  "score": 54.2,
+  "price_usd": 407.77,
+  "tagline": "AI monetization already happening at scale \u2014 Copilot \u00d7 Azure = durable earnings compounder. 46.3% operating margin is best-in-class capital efficiency.",
+  "tags": [
+    "Copilot",
+    "Azure AI",
+    "Enterprise Moat"
+  ],
+  "bucket": "Value",
+  "canonical_url": "https://www.clarionintelligencesystems.com/research/msft",
+  "source_url": "https://cis.zo.space/msft",
+  "snapshot_date": "2026-05-13",
+  "snapshot_iso": "2026-05-13T20:02:30+00:00",
+  "title": "MSFT Investment Thesis \u2014 Copilot \u00d7 Azure Earnings Compounder",
+  "publisher": "Clarion Intelligence Systems",
+  "author": "Jing Xie",
+  "disclaimer": "Not investment advice. For informational purposes only."
+}

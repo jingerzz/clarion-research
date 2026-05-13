@@ -1,0 +1,191 @@
+{
+  "publisher": "Clarion Intelligence Systems",
+  "author": "Jing Xie",
+  "generated_at": "2026-05-13T20:02:30+00:00",
+  "snapshot_date": "2026-05-13",
+  "canonical_base": "https://www.clarionintelligencesystems.com",
+  "source_base": "https://cis.zo.space",
+  "theses": [
+    {
+      "slug": "iren",
+      "ticker": "IREN",
+      "company": "Iris Energy Limited",
+      "action": "HOLD",
+      "score": 65,
+      "price_usd": 53.13,
+      "tagline": "Vertically integrated AI infrastructure compounder. NVIDIA-validated with a $3.4B AI cloud contract. The market still prices it like a crypto miner.",
+      "tags": [
+        "AI Infrastructure",
+        "Data Centers",
+        "NVIDIA Contract"
+      ],
+      "bucket": "Systematic",
+      "canonical_url": "https://www.clarionintelligencesystems.com/research/iren",
+      "html_path": "theses/iren/index.html",
+      "md_path": "theses/iren/thesis.md",
+      "json_path": "theses/iren/thesis.json"
+    },
+    {
+      "slug": "onon",
+      "ticker": "ONON",
+      "company": "On Holding AG",
+      "action": "ADD",
+      "score": 80,
+      "price_usd": 33.84,
+      "tagline": "Swiss premium performance running brand growing at 3\u00d7 the market rate. Record Q1 2026 margins at near 52-week low \u2014 mispricing worth owning.",
+      "tags": [
+        "Footwear",
+        "Growth",
+        "Margin Expansion"
+      ],
+      "bucket": "Value",
+      "canonical_url": "https://www.clarionintelligencesystems.com/research/onon",
+      "html_path": "theses/onon/index.html",
+      "md_path": "theses/onon/thesis.md",
+      "json_path": "theses/onon/thesis.json"
+    },
+    {
+      "slug": "ttd",
+      "ticker": "TTD",
+      "company": "The Trade Desk, Inc.",
+      "action": "HOLD",
+      "score": 70,
+      "price_usd": 20.51,
+      "tagline": "Largest independent DSP at 11\u00d7 FCF. CEO Jeff Green bought $148M at $24.71 \u2014 stock now 17% below his cost. $1.3B net cash (13.6% of MC), zero debt. Amazon fear priced in.",
+      "tags": [
+        "AdTech",
+        "CTV",
+        "CEO $148M Insider Buy"
+      ],
+      "bucket": "Value",
+      "canonical_url": "https://www.clarionintelligencesystems.com/research/ttd",
+      "html_path": "theses/ttd/index.html",
+      "md_path": "theses/ttd/thesis.md",
+      "json_path": "theses/ttd/thesis.json"
+    },
+    {
+      "slug": "deck",
+      "ticker": "DECK",
+      "company": "Deckers Outdoor Corporation",
+      "action": "WATCHLIST",
+      "score": 68,
+      "price_usd": 102.72,
+      "tagline": "Two iconic brands (UGG + HOKA) running ahead of their multiple. 14.3\u00d7 P/E on 40% ROE and 57.9% gross margins. HOKA is the underappreciated second engine.",
+      "tags": [
+        "Footwear",
+        "Value",
+        "HOKA Growth Engine"
+      ],
+      "bucket": "Value",
+      "canonical_url": "https://www.clarionintelligencesystems.com/research/deck",
+      "html_path": "theses/deck/index.html",
+      "md_path": "theses/deck/thesis.md",
+      "json_path": "theses/deck/thesis.json"
+    },
+    {
+      "slug": "meta",
+      "ticker": "META",
+      "company": "Meta Platforms, Inc.",
+      "action": "DRAFT",
+      "score": 54.6,
+      "price_usd": 603.0,
+      "tagline": "Cheapest large-cap AI at 22x trailing \u2014 ad moat + capex cycle peak = re-rate. Operating cash flow compounded at 28% CAGR: $71B\u2192$116B over 3 years.",
+      "tags": [
+        "AI Advertising",
+        "Llama Ecosystem",
+        "Capex Peak Play"
+      ],
+      "bucket": "Value",
+      "canonical_url": "https://www.clarionintelligencesystems.com/research/meta",
+      "html_path": "theses/meta/index.html",
+      "md_path": "theses/meta/thesis.md",
+      "json_path": "theses/meta/thesis.json"
+    },
+    {
+      "slug": "msft",
+      "ticker": "MSFT",
+      "company": "Microsoft Corporation",
+      "action": "DRAFT",
+      "score": 54.2,
+      "price_usd": 407.77,
+      "tagline": "AI monetization already happening at scale \u2014 Copilot \u00d7 Azure = durable earnings compounder. 46.3% operating margin is best-in-class capital efficiency.",
+      "tags": [
+        "Copilot",
+        "Azure AI",
+        "Enterprise Moat"
+      ],
+      "bucket": "Value",
+      "canonical_url": "https://www.clarionintelligencesystems.com/research/msft",
+      "html_path": "theses/msft/index.html",
+      "md_path": "theses/msft/thesis.md",
+      "json_path": "theses/msft/thesis.json"
+    },
+    {
+      "slug": "googl",
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "action": "DRAFT",
+      "score": 57,
+      "price_usd": 387.35,
+      "tagline": "Seven AI bets in one fortress balance sheet \u2014 antitrust overhang = entry discount, not thesis break. Near 52W high; patience entry required.",
+      "tags": [
+        "Seven AI Layers",
+        "Google Cloud Gemini",
+        "Near 52W High"
+      ],
+      "bucket": "Value",
+      "canonical_url": "https://www.clarionintelligencesystems.com/research/googl",
+      "html_path": "theses/googl/index.html",
+      "md_path": "theses/googl/thesis.md",
+      "json_path": "theses/googl/thesis.json"
+    },
+    {
+      "slug": "ffiv",
+      "ticker": "FFIV",
+      "company": "F5, Inc.",
+      "action": "DRAFT",
+      "score": 43,
+      "price_usd": 354.98,
+      "tagline": "The invisible AI inference rails. $7.4B buyback (37% of market cap) is the floor \u2014 AI inference demand for on-prem load balancing is the ceiling.",
+      "tags": [
+        "AI Inference ADC Moat",
+        "Buyback Yield",
+        "Hidden Gem"
+      ],
+      "bucket": "Value",
+      "canonical_url": "https://www.clarionintelligencesystems.com/research/ffiv",
+      "html_path": "theses/ffiv/index.html",
+      "md_path": "theses/ffiv/thesis.md",
+      "json_path": "theses/ffiv/thesis.json"
+    },
+    {
+      "slug": "ibm",
+      "ticker": "IBM",
+      "company": "International Business Machines Corporation",
+      "action": "DRAFT",
+      "score": 34.4,
+      "price_usd": 219.22,
+      "tagline": "Enterprise AI governance at the cheapest valuation. Regulated industries can't use OpenAI APIs \u2014 Watsonx.governance is purpose-built for that constraint. At 52W low.",
+      "tags": [
+        "Watsonx AI Governance",
+        "At 52W Low",
+        "Hybrid Cloud"
+      ],
+      "bucket": "Value",
+      "canonical_url": "https://www.clarionintelligencesystems.com/research/ibm",
+      "html_path": "theses/ibm/index.html",
+      "md_path": "theses/ibm/thesis.md",
+      "json_path": "theses/ibm/thesis.json"
+    }
+  ],
+  "tools": [
+    {
+      "slug": "sp500",
+      "kind": "dashboard",
+      "title": "S&P 500 Market Regime Dashboard \u2014 Clarion Intelligence Systems",
+      "description": "Live market regime dashboard: SPY/TLT trend, equity hurdle vs. Shiller CAPE, breadth signals. Drives the Clarion Value Bucket allocation policy.",
+      "canonical_url": "https://www.clarionintelligencesystems.com/tools/sp500",
+      "html_path": "tools/sp500/index.html"
+    }
+  ]
+}

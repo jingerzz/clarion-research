@@ -1,0 +1,44 @@
+name: weekly-snapshot
+
+on:
+  schedule:
+    # Sundays 14:00 UTC (Sunday 10am ET in winter, 9am ET in summer)
+    - cron: "0 14 * * 0"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Chromium + agent-browser
+        run: |
+          curl -fsSL https://media.zocomputer.com/install/agentbrowser2.sh | bash
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+
+      - name: Capture fresh snapshots
+        run: bash scripts/snapshot.sh
+        env:
+          CLARION_SOURCE_BASE: https://cis.zo.space
+
+      - name: Rebuild bundles
+        run: python3 scripts/build.py
+
+      - name: Open PR with refreshed snapshots
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore(snapshot): weekly refresh"
+          title: "Weekly snapshot refresh"
+          branch: snapshot/weekly
+          body: |
+            Automated weekly refresh of thesis snapshots from https://cis.zo.space.
+            Review the diff for material changes before merging.

@@ -1,0 +1,23 @@
+{
+  "slug": "meta",
+  "ticker": "META",
+  "company": "Meta Platforms, Inc.",
+  "action": "DRAFT",
+  "score": 54.6,
+  "price_usd": 603.0,
+  "tagline": "Cheapest large-cap AI at 22x trailing \u2014 ad moat + capex cycle peak = re-rate. Operating cash flow compounded at 28% CAGR: $71B\u2192$116B over 3 years.",
+  "tags": [
+    "AI Advertising",
+    "Llama Ecosystem",
+    "Capex Peak Play"
+  ],
+  "bucket": "Value",
+  "canonical_url": "https://www.clarionintelligencesystems.com/research/meta",
+  "source_url": "https://cis.zo.space/meta",
+  "snapshot_date": "2026-05-13",
+  "snapshot_iso": "2026-05-13T20:02:30+00:00",
+  "title": "META Investment Thesis \u2014 Cheapest Large-Cap AI at 22\u00d7 Trailing",
+  "publisher": "Clarion Intelligence Systems",
+  "author": "Jing Xie",
+  "disclaimer": "Not investment advice. For informational purposes only."
+}

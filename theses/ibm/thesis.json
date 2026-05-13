@@ -1,0 +1,23 @@
+{
+  "slug": "ibm",
+  "ticker": "IBM",
+  "company": "International Business Machines Corporation",
+  "action": "DRAFT",
+  "score": 34.4,
+  "price_usd": 219.22,
+  "tagline": "Enterprise AI governance at the cheapest valuation. Regulated industries can't use OpenAI APIs \u2014 Watsonx.governance is purpose-built for that constraint. At 52W low.",
+  "tags": [
+    "Watsonx AI Governance",
+    "At 52W Low",
+    "Hybrid Cloud"
+  ],
+  "bucket": "Value",
+  "canonical_url": "https://www.clarionintelligencesystems.com/research/ibm",
+  "source_url": "https://cis.zo.space/ibm",
+  "snapshot_date": "2026-05-13",
+  "snapshot_iso": "2026-05-13T20:02:30+00:00",
+  "title": "IBM Investment Thesis \u2014 Enterprise AI Governance at 52W Low",
+  "publisher": "Clarion Intelligence Systems",
+  "author": "Jing Xie",
+  "disclaimer": "Not investment advice. For informational purposes only."
+}

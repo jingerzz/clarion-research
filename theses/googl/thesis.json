@@ -1,0 +1,23 @@
+{
+  "slug": "googl",
+  "ticker": "GOOGL",
+  "company": "Alphabet Inc.",
+  "action": "DRAFT",
+  "score": 57,
+  "price_usd": 387.35,
+  "tagline": "Seven AI bets in one fortress balance sheet \u2014 antitrust overhang = entry discount, not thesis break. Near 52W high; patience entry required.",
+  "tags": [
+    "Seven AI Layers",
+    "Google Cloud Gemini",
+    "Near 52W High"
+  ],
+  "bucket": "Value",
+  "canonical_url": "https://www.clarionintelligencesystems.com/research/googl",
+  "source_url": "https://cis.zo.space/googl",
+  "snapshot_date": "2026-05-13",
+  "snapshot_iso": "2026-05-13T20:02:30+00:00",
+  "title": "GOOGL Investment Thesis \u2014 Seven AI Bets in One Fortress Balance Sheet",
+  "publisher": "Clarion Intelligence Systems",
+  "author": "Jing Xie",
+  "disclaimer": "Not investment advice. For informational purposes only."
+}

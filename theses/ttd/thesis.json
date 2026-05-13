@@ -1,0 +1,23 @@
+{
+  "slug": "ttd",
+  "ticker": "TTD",
+  "company": "The Trade Desk, Inc.",
+  "action": "HOLD",
+  "score": 70,
+  "price_usd": 20.51,
+  "tagline": "Largest independent DSP at 11\u00d7 FCF. CEO Jeff Green bought $148M at $24.71 \u2014 stock now 17% below his cost. $1.3B net cash (13.6% of MC), zero debt. Amazon fear priced in.",
+  "tags": [
+    "AdTech",
+    "CTV",
+    "CEO $148M Insider Buy"
+  ],
+  "bucket": "Value",
+  "canonical_url": "https://www.clarionintelligencesystems.com/research/ttd",
+  "source_url": "https://cis.zo.space/ttd",
+  "snapshot_date": "2026-05-13",
+  "snapshot_iso": "2026-05-13T20:02:30+00:00",
+  "title": "TTD Investment Thesis \u2014 Largest Independent DSP at 11\u00d7 FCF",
+  "publisher": "Clarion Intelligence Systems",
+  "author": "Jing Xie",
+  "disclaimer": "Not investment advice. For informational purposes only."
+}

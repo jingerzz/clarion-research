@@ -1,0 +1,23 @@
+{
+  "slug": "iren",
+  "ticker": "IREN",
+  "company": "Iris Energy Limited",
+  "action": "HOLD",
+  "score": 65,
+  "price_usd": 53.13,
+  "tagline": "Vertically integrated AI infrastructure compounder. NVIDIA-validated with a $3.4B AI cloud contract. The market still prices it like a crypto miner.",
+  "tags": [
+    "AI Infrastructure",
+    "Data Centers",
+    "NVIDIA Contract"
+  ],
+  "bucket": "Systematic",
+  "canonical_url": "https://www.clarionintelligencesystems.com/research/iren",
+  "source_url": "https://cis.zo.space/iren",
+  "snapshot_date": "2026-05-13",
+  "snapshot_iso": "2026-05-13T20:02:30+00:00",
+  "title": "IREN Investment Thesis \u2014 Vertically Integrated AI Infrastructure Compounder",
+  "publisher": "Clarion Intelligence Systems",
+  "author": "Jing Xie",
+  "disclaimer": "Not investment advice. For informational purposes only."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "ffiv",
+  "ticker": "FFIV",
+  "company": "F5, Inc.",
+  "action": "DRAFT",
+  "score": 43,
+  "price_usd": 354.98,
+  "tagline": "The invisible AI inference rails. $7.4B buyback (37% of market cap) is the floor \u2014 AI inference demand for on-prem load balancing is the ceiling.",
+  "tags": [
+    "AI Inference ADC Moat",
+    "Buyback Yield",
+    "Hidden Gem"
+  ],
+  "bucket": "Value",
+  "canonical_url": "https://www.clarionintelligencesystems.com/research/ffiv",
+  "source_url": "https://cis.zo.space/ffiv",
+  "snapshot_date": "2026-05-13",
+  "snapshot_iso": "2026-05-13T20:02:30+00:00",
+  "title": "FFIV Investment Thesis \u2014 The Invisible AI Inference Rails",
+  "publisher": "Clarion Intelligence Systems",
+  "author": "Jing Xie",
+  "disclaimer": "Not investment advice. For informational purposes only."
+}
