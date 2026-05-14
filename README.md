@@ -18,6 +18,10 @@ needed, and serves the canonical URLs.
 
 ```
 clarion-research/
+├── letter/                          # Quarterly investor letter
+│   ├── index.html                   #   standalone page (Berkshire aesthetic)
+│   ├── letter.md                    #   source markdown
+│   └── snapshot.json                #   provenance record
 ├── theses/                    # one folder per ticker
 │   ├── iren/
 │   │   ├── index.html         # standalone HTML — inline styles, portable

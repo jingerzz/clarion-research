@@ -4,6 +4,15 @@ All notable snapshots and structural changes to this repository.
 Snapshots are point-in-time captures — content reflects the state of each
 thesis at the moment of capture.
 
+## 2026-05-13 — add Q2 investor letter
+
+Added the quarterly investor letter as a standalone bundle:
+- `letter/index.html` — Berkshire Hathaway aesthetic, dark mode, inline-styled
+- `letter/letter.md` — source markdown (from `~/clarion/letters/2026-letter.md`)
+- `letter/snapshot.json` — provenance record
+- Canonical URL: `clarionintelligencesystems.com/letter`
+- Updated `index/theses.json` and `sitemap.xml` accordingly
+
 ## 2026-05-13 — initial public snapshot
 
 Inaugural commit. Captured nine thesis briefs and one tooling page from

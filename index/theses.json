@@ -1,7 +1,7 @@
 {
   "publisher": "Clarion Intelligence Systems",
   "author": "Jing Xie",
-  "generated_at": "2026-05-13T20:02:30+00:00",
+  "generated_at": "2026-05-14T02:24:03+00:00",
   "snapshot_date": "2026-05-13",
   "canonical_base": "https://www.clarionintelligencesystems.com",
   "source_base": "https://cis.zo.space",
@@ -187,5 +187,21 @@
       "canonical_url": "https://www.clarionintelligencesystems.com/tools/sp500",
       "html_path": "tools/sp500/index.html"
     }
-  ]
+  ],
+  "letter": {
+    "slug": "letter",
+    "title": "2026 Investor Letter",
+    "tagline": "Q2 2026: ORANGE regime, portfolio construction, thesis health, and five lessons from managing an AI-native multi-strategy book.",
+    "updated": "2026-05-13",
+    "quarter": "Q2",
+    "year": 2026,
+    "canonical_url": "https://www.clarionintelligencesystems.com/letter",
+    "source_url": "https://cis.zo.space/letter",
+    "tags": [
+      "investor letter",
+      "quarterly update",
+      "regime",
+      "portfolio"
+    ]
+  }
 }
